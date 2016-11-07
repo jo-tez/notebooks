@@ -1,0 +1,5 @@
+seaborn
+reportlab
+PyPDF2
+lxml
+beautifulsoup4
